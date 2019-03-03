@@ -1,4 +1,4 @@
-package com.javatechdeveloper.staff.v1.service;
+package com.javatechdeveloper.staff.v1.service.endpoints;
 
 import java.util.List;
 import java.util.Optional;
